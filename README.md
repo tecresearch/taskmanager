@@ -5,8 +5,8 @@ A production-ready Task Manager Web App for efficient task management with user 
 ---
 
 ### Features
-- **Task Management**: Add, edit, delete, and track tasks.
-- **User Roles**: Admin and regular user roles.
+- **Task Management**: Add, edit, delete, and prioritize tasks.
+- **User Roles**: regular user roles.
 - **Validation**: Input constraints and robust form validation.
 - **Responsive Design**: Works across devices.
 - **Testing Ready**: Includes testing assets.
@@ -14,14 +14,18 @@ A production-ready Task Manager Web App for efficient task management with user 
 ---
 
 ### Tech Stack
-Frontend: React.js, HTML, CSS  
-Backend: Node.js, Express.js  
+Frontend: React.js, HTML, CSS ,AOS(Animation) , Toastify-react ,react-icons 
+Backend: Node.js, Express.js ,JWT,bycrypt,joi,body-parser
 Database: MongoDB  
 Authentication: JWT-based login and registration
 
 ---
 
 ### Project Structure
+TASKMANAGER
+   -client(Frontend)
+   -server(Backend)
+   -testing-clips(Screenshots)
 
 ---
 
@@ -30,13 +34,13 @@ Authentication: JWT-based login and registration
    `git clone https://github.com/tecresearch/taskmanager.git && cd taskmanager`
 
 2. Install dependencies:  
-   `npm install`
+   `cd client && npm install && npm run dev`
 
 3. Run the server:  
-   `npm start`
+   ` cd server && npm start`
 
 4. Access the app at:  
-   `http://localhost:3000`
+   `http://localhost:5173`
 
 ---
 
