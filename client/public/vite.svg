@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="150" height="150">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="45" fill="#4CAF50" />
+  
+  <!-- Checkmark Icon for task completion -->
+  <path d="M 30,50 L 45,65 L 70,35" stroke="white" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Text: TaskManager -->
+  <text x="50%" y="85%" text-anchor="middle" font-size="12" fill="white" font-family="Arial, sans-serif" font-weight="bold">
+    TaskManager
+  </text>
+</svg>

@@ -1,0 +1,47 @@
+/* Tailwind Base, Components, and Utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Initial Ring Style */
+.stroke-ring-progress {
+  stroke-dashoffset: 100%; /* Hide the progress initially */
+}
+
+/* Hover Effect - Animate the Stroke on Hover */
+.group:hover .stroke-ring-progress {
+  stroke-dashoffset: 0; /* Animate stroke to the desired progress */
+  transition: stroke-dashoffset 1s ease-in-out;
+}
+     
+
+/* Glass effect with backdrop filter */
+.glass-box {
+  position: relative;
+  border: 2px solid rgba(255, 255, 255, 0.3); /* Light border */
+  border-radius: 10px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.1); /* Semi-transparent white background */
+  backdrop-filter: blur(10px); /* Frosted glass effect */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Slight shadow for depth */
+  transition: all 0.3s ease-in-out;
+}
+
+/* Hover effect to increase the blur and shadow */
+.glass-box:hover {
+  backdrop-filter: blur(15px); /* Stronger blur on hover */
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3); /* Deeper shadow on hover */
+}
+
+.text-gray-300 {
+  font-size: 1.125rem; /* Adjust font size */
+  line-height: 1.8;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+/* Ensure responsive design */
+@media (max-width: 768px) {
+  .max-w-\[600px\] {
+    max-width: 100%; /* Full width on smaller screens */
+  }
+}
