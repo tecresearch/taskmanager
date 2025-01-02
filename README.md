@@ -5,8 +5,14 @@ A production-ready Task Manager Web App for efficient task management with user 
 ---
 
 ![HOME](testing-clips/home.png " Home")
+
+<center>
+   
 ![LOGIN](testing-clips/login_success.jpg " Login")
 ![DASHBOARD](testing-clips/mobile_view_dashboard.jpg "Dashboard")
+   
+</center>
+
 ![DASHBOARD](testing-clips/task_manager.jpg "Dashboard")
 
 
