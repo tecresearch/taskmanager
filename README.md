@@ -1,8 +1,13 @@
 # Task Manager Web App
 
 A production-ready Task Manager Web App for efficient task management with user roles, input validation, and a responsive interface.
-[]('./Testing-clips/landing')
+
 ---
+![HOME](testing-clips/index_mobile.jpg "Responsive Landing")
+![REGISTRATION](testing-clips/reg.jpg "Registration")
+![LOGIN](testing-clips/login_success.jpg " Login")
+![DASHBOARD](testing-clips/mobile_view_dashboard.jpg "Dashboard")
+
 
 ### Features
 - **Task Management**: Add, edit, delete, and prioritize tasks.
