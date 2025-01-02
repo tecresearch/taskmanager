@@ -14,7 +14,7 @@ A production-ready Task Manager Web App for efficient task management with user 
    </div><br><br>
 
    <!-- Last Image -->
-   <img src="testing-clips/task_manager.jpg" alt="DASHBOARD" title="Dashboard" width="400">
+   <img src="testing-clips/task_manager.jpg" alt="DASHBOARD" title="Dashboard" >
 </div>
 
 
