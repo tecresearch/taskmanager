@@ -6,7 +6,8 @@ A production-ready Task Manager Web App for efficient task management with user 
 ![HOME](testing-clips/index_mobile.jpg "Responsive Landing")
 ![LOGIN](testing-clips/login_success.jpg " Login")
 ![DASHBOARD](testing-clips/mobile_view_dashboard.jpg "Dashboard")
-![CONNECTION](testing-clips/connecting_frontendTobackend.png "Code Sample")
+<img src="testing-clips/index_mobile.jpg" alt="HOME" title="Responsive Landing" width="500" height="300">
+
 
 
 ### Features
