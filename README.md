@@ -3,7 +3,8 @@
 A production-ready Task Manager Web App for efficient task management with user roles, input validation, and a responsive interface.
 
 ---
-<img src="testing-clips/index_mobile.jpg" alt="HOME" title="Responsive Landing" width="200" height="600">
+<img src="testing-clips/index_mobile.jpg" alt="HOME" title="Responsive Landing" width="250" height="468">
+
 ![LOGIN](testing-clips/login_success.jpg " Login")
 ![DASHBOARD](testing-clips/mobile_view_dashboard.jpg "Dashboard")
 
