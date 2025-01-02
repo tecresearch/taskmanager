@@ -3,18 +3,12 @@
 A production-ready Task Manager Web App for efficient task management with user roles, input validation, and a responsive interface.
 
 ---
-
-![HOME](testing-clips/home.png "Home")
-
 <div align="center">
-   
-   ![LOGIN](testing-clips/login_success.jpg "Login")  
-   ![DASHBOARD](testing-clips/mobile_view_dashboard.jpg "Dashboard")
-   
+   <img src="testing-clips/home.png" alt="HOME" title="Home" width="500"><br><br>
+   <img src="testing-clips/login_success.jpg" alt="LOGIN" title="Login" width="500"><br><br>
+   <img src="testing-clips/mobile_view_dashboard.jpg" alt="DASHBOARD" title="Dashboard" width="500"><br><br>
+   <img src="testing-clips/task_manager.jpg" alt="DASHBOARD" title="Dashboard" width="500">
 </div>
-
-![DASHBOARD](testing-clips/task_manager.jpg "Dashboard")
-
 
 ### Features
 - **Task Management**: Add, edit, delete, and prioritize tasks.
